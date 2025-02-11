@@ -76,5 +76,5 @@ Je suis **Elarbi Lamfarrad**, étudiant en Master 2 en **Ingénierie Informatiqu
 ## 🌐 Retrouvez-moi
 
 - 🌍 [Portfolio](https://elarbi-lamfarrad.netlify.app/)
-- 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/elarbi-lamfarrad-337b5b276/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/elarbi-lamfarrad-337b5b276/)
 - 📧 [Contactez-moi](mailto:elarbilamfarrad@gmail.com)
